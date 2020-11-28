@@ -1,2 +1,2 @@
 # speedtester
-Small python script to verify speed network.
+Small python script to verify network speed.
